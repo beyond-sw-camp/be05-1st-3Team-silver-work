@@ -1,4 +1,4 @@
-![image](https://github.com/beyond-sw-camp/be05-1st-3Team-silver-work/assets/127950374/4e0e241a-dd76-485c-a7a6-7172c3204450)## Silver Work 👍
+## Silver Work 👍
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=5797D8&height=150&section=header" />
   <h1 style="color:#5797D8; border: none;">🌟 Silver Work 🌟</h1>
