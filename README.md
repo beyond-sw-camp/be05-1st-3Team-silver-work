@@ -107,14 +107,53 @@
 > ### ☑️  **테스트 케이스 쿼리**
 
 <details>
-  <summary>첫번째토글</summary>
+  <summary>회원</summary>
+  <div markdown="1">
+    <img src="https://github.com/beyond-sw-camp/be05-1st-3Team-silver-work/assets/85616993/e8be2fb3-30af-456f-9173-308ff6ce407a"/>
+  </div>
+  <div markdown="1">
+    <img src="https://github.com/beyond-sw-camp/be05-1st-3Team-silver-work/assets/85616993/09614047-f2d2-4b93-9e67-4bc3739a597b"/>
+  </div>
 </details>
 
 <details>
-  <summary><b>두번째토글</b></summary>
+  <summary>공고</summary>
+  <div markdown="1">
+    <img src="https://github.com/beyond-sw-camp/be05-1st-3Team-silver-work/assets/85616993/53bd46bf-24a8-4722-94ce-9369efaec484"/>
+  </div>
+  <div markdown="1">
+    <img src="https://github.com/beyond-sw-camp/be05-1st-3Team-silver-work/assets/85616993/930ff231-ca9a-40f5-bbf9-c2981cc8503f"/>
+  </div>
+  <div markdown="1">
+    <img src="https://github.com/beyond-sw-camp/be05-1st-3Team-silver-work/assets/85616993/5bdb69c2-1af2-4083-b8b5-4ebe74108177"/>
+  </div>
+</details>
+
+<details>
+  <summary>지원</summary>
+  <div markdown="1">
+    <img src="https://github.com/beyond-sw-camp/be05-1st-3Team-silver-work/assets/85616993/07fcb02e-ccfe-447f-b651-1061aac6020f"/>
+  </div>
+</details>
+
+<details>
+  <summary>리뷰</summary>
+  <div markdown="1">
+    <img src="https://github.com/beyond-sw-camp/be05-1st-3Team-silver-work/assets/85616993/e32ee18d-e84a-46fe-bc2e-4f4b0823bfa5"/>
+  </div>
+  <div markdown="1">
+    <img src="https://github.com/beyond-sw-camp/be05-1st-3Team-silver-work/assets/85616993/f38e3f5e-3a6e-4954-85fc-0e7586c5db56"/>
+  </div>
 </details>
 
 ----------
+
+> ### ☑️  **구현 화면 설계**
+
+![028](https://github.com/beyond-sw-camp/be05-1st-3Team-silver-work/assets/85616993/7baed22a-ece0-4741-b38d-3819c0b95b88)
+
+----------
+
 > ### ☑️  **사이트 구현**
 
 ----------
