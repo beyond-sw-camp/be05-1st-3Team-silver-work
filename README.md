@@ -1,4 +1,47 @@
-## 🚀 Silver Work 👍
+## Silver Work 👍
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5797D8&height=150&section=header" />
+  <h1 style="color:#5797D8; border: none;">🌟 Silver Work 🌟</h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5797D8&height=150&section=footer" />
+</div>
+
+----------
+## 🤼‍♂️ 팀원 소개
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://github.com/chan-nni"><img src="https://avatars.githubusercontent.com/chan-nni" width="150px;" alt="강찬미"/><br /><sub><b>강찬미</b></sub></a><br /></td>
+      <td align="center"><a href="링크_주소_박상철"><img src="이미지_링크_박상철" width="150px;" alt="박상철"/><br /><sub><b>박상철</b></sub></a><br /></td>
+      <td align="center"><a href="링크_주소_서근엽"><img src="이미지_링크_서근엽" width="150px;" alt="서근엽"/><br /><sub><b>서근엽</b></sub></a><br /></td>
+      <td align="center"><a href="링크_주소_여경원"><img src="이미지_링크_여경원" width="150px;" alt="여경원"/><br /><sub><b>여경원</b></sub></a><br /></td>
+      <td align="center"><a href="링크_주소_최하나"><img src="이미지_링크_최하나" width="150px;" alt="최하나"/><br /><sub><b>최하나</b></sub></a><br /></td>
+    </tr>
+  </tbody>
+</table>
+
+----------
+
+## 🔎 기획의도
+노인 일자리 채용 데이터를 확인할 수 있는 플랫폼을 구현한다.
+
+![003](https://github.com/beyond-sw-camp/be05-1st-3Team-silver-work/assets/85616993/195947b5-3afa-4dcb-95fc-63cafa369063)
+
+----------
+
+## 🚀 개발 환경
+- **🤜🤛 Group**
+
+![slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+
+- **💻 OS**
+
+![mac](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+- **📚 Skills**
+
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+
 ----------
 
 ## ✨ 프로젝트 설명
@@ -35,8 +78,23 @@
 
 ----------
 
-## 🐧 프로젝트 구현
-> ### 🏢 **개념 모델링**
+## 💹 데이터 셋
+![013](https://github.com/beyond-sw-camp/be05-1st-3Team-silver-work/assets/85616993/9e363bd0-ec61-4573-b747-c4275ed4c461)
+![014](https://github.com/beyond-sw-camp/be05-1st-3Team-silver-work/assets/85616993/88844511-f274-43e7-8df4-a370df199910)
+
+----------
+
+## 💎 프로젝트 구현
+> ### 📋 **요구사항 명세서**
+![요구사항 명세서](https://github.com/beyond-sw-camp/be05-1st-3Team-silver-work/assets/85616993/7898bea6-0cdf-4620-af6d-f273fde07d71)
+
+----------
+
+> ### 📅 **WBS**
+![WBS](https://github.com/beyond-sw-camp/be05-1st-3Team-silver-work/assets/85616993/1776fbd0-8a90-41cf-b7de-f261b5648fc9)
+
+----------
+> ### 🎯 **개념 모델링**
 ![개념 모델링 ](https://github.com/beyond-sw-camp/be05-1st-3Team-silver-work/assets/85616993/6503c9d2-b1ea-434b-8e5e-5548ca421e6f)
 
 ----------
@@ -46,28 +104,37 @@
 
 ----------
 
-> ### 📋 **요구사항 명세서**
-![요구사항 명세서](https://github.com/beyond-sw-camp/be05-1st-3Team-silver-work/assets/85616993/7898bea6-0cdf-4620-af6d-f273fde07d71)
+> ### ☑️  **테스트 케이스 쿼리**
+
+<details>
+  <summary>첫번째토글</summary>
+</details>
+
+<details>
+  <summary><b>두번째토글</b></summary>
+</details>
+
+----------
+> ### ☑️  **사이트 구현**
+
+----------
+> ### 📈  **개선 방안**
 
 ----------
 
-> ### 📋 **WBS**
-![WBS](https://github.com/beyond-sw-camp/be05-1st-3Team-silver-work/assets/85616993/1776fbd0-8a90-41cf-b7de-f261b5648fc9)
-
-----------
-> ### 💻 **SQL**
-
-----------
-
-## 🤼‍♂️팀원
+## 🤼‍♂️팀원 회고록
 
 🐯 **강찬미**
+> 
 
 🐶 **박상철**
+> 
 
 🐺 **서근엽**
+> 
 
 🐱 **여경원**
+> 
 
 🦁 **최하나**
 
