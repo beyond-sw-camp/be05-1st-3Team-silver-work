@@ -14,7 +14,7 @@
       <td align="center"><a href="https://github.com/chan-nni"><img src="https://avatars.githubusercontent.com/chan-nni" width="100px;" alt="강찬미"/><br /><sub><b>강찬미</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/sangcheolme"><img src="https://avatars.githubusercontent.com/sangcheolme" width="100px;" alt="박상철"/><br /><sub><b>박상철</b></sub></a><br /></td>
       <td align="center"><a href="링크_주소_서근엽"><img src="이미지_링크_서근엽" width="100px;" alt="서근엽"/><br /><sub><b>서근엽</b></sub></a><br /></td>
-      <td align="center"><a href="링크_주소_여경원"><img src="이미지_링크_여경원" width="100px;" alt="여경원"/><br /><sub><b>여경원</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/kyungwon2won2"><img src="https://avatars.githubusercontent.com/u/134581020?v=4" width="100px;" alt="여경원"/><br /><sub><b>여경원</b></sub></a><br /></td>
       <td align="center"><a href="링크_주소_최하나"><img src="이미지_링크_최하나" width="100px;" alt="최하나"/><br /><sub><b>최하나</b></sub></a><br /></td>
     </tr>
   </tbody>
