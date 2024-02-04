@@ -15,7 +15,7 @@
       <td align="center"><a href="https://github.com/sangcheolme"><img src="https://avatars.githubusercontent.com/sangcheolme" width="100px;" alt="박상철"/><br /><sub><b>박상철</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/WARDKEY"><img src="이미지_링크_서근엽" width="100px;" alt="서근엽"/><br /><sub><b>서근엽</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/kyungwon2won2"><img src="https://avatars.githubusercontent.com/u/134581020?v=4" width="100px;" alt="여경원"/><br /><sub><b>여경원</b></sub></a><br /></td>
-      <td align="center"><a href="링크_주소_최하나"><img src="이미지_링크_최하나" width="100px;" alt="최하나"/><br /><sub><b>최하나</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/hanachooi"><img src="이미지_링크_최하나" width="100px;" alt="최하나"/><br /><sub><b>최하나</b></sub></a><br /></td>
     </tr>
   </tbody>
 </table>
@@ -202,7 +202,18 @@ https://github.com/beyond-sw-camp/be05-1st-3Team-silver-work/assets/127950374/5c
 
 ----------
 > ### 📈  **개선 방안**
+1. 지원, 스크랩 등의 기능 웹사이트에 추가
+  sql 로 구현된 지원, 스크랩의 기능을 웹사이트로 구축할 수 있다.
+2. 더 많은 데이터 제공
+   신뢰성 있고, 정확한 데이터를 통해, 노인 일자리에 알맞는 웹사이트를 구축할 수 있다.
+3. 노인의 일자리 통계 기능 추가
 
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/4786306d-53fc-4bdd-9dd4-99a1cea69cd6/45272a48-002c-4666-afdf-5209a1bd898d/Untitled.png)
+
+플랫폼 개발 시, 사용한 공공데이터를 통해, 현 노인 일자리 현황을 보면, 노인 참여자수와 참여 사업 단체수가 증가하고 있음을 확인할 수 있다.
+이를 사용하여, 노인의 일자리 통계 기능을 추가할 수 있다.
+
+이에 따라, 플랫폼에 노인의 취업에 따른, 일자리 통계 기능을 추가할 수 있다.
 ----------
 
 ## 🤼‍♂️팀원 회고록
@@ -229,4 +240,14 @@ https://github.com/beyond-sw-camp/be05-1st-3Team-silver-work/assets/127950374/5c
 > 
 
 🦁 **최하나**
+> 프로젝트를 진행하면서 주제 선정, 요구사항 분석, 디비 설계, 데이터 가공, 그리고 프로젝트 진행 절차에 대한 경험들이 많이 있었습니다. 주제를 선정할 때는 초기에 데이터를 제공받을 수 있는 주제로 한정하다보니 선택 폭이 좁아져 어려움을 겪었습니다. 이로 인해 적절한 주제를 찾는 것이 번거로웠습니다.
 
+> 요구사항 분석도 처음에는 낯설게 느껴져서 수정을 거듭하면서 이해를 하고 가야 했습니다. 이러한 과정에서 모든 경우의 수를 고려하고 완전한 이해를 바탕으로 개발을 진행해야 한다는 중요한 교훈을 얻었습니다.
+
+> 디비 설계와 데이터 가공은 지속적으로 이루어져야 하는 작업이었는데, 처음부터 철저한 디비 설계와 데이터 가공에 대한 계획이 없다면 프로세스가 비효율적으로 느껴졌습니다. 
+
+> 또한, 데이터 가공에 대한 경험이 부족해 어떤 방식으로 진행해야 하는지 막막함을 느꼈습니다. 이에 대한 해결책으로 데이터 가공에 대한 추가적인 공부와 경험이 필요하다고 깨달았습니다.
+
+> 프로젝트 진행 절차에 대한 미숙함도 있었습니다. 처음에는 어떤 절차로 진행되는지 몰라 어려움을 겪었지만, 팀원들과 함께 배우면서 문제를 해결해 나가는 과정에서 협업의 중요성을 체감했습니다.
+
+> 이러한 경험들을 토대로 앞으로는 더 나은 프로젝트 진행을 위해 더욱 신중한 계획 수립과 효과적인 협업을 할 필요성을 느꼈습니다. 프로젝트 경험을 통해 성장하고, 미숙한 부분을 보완하며 더 나은 결과물을 만들고 싶습니다.
