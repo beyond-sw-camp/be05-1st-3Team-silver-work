@@ -15,7 +15,7 @@
       <td align="center"><a href="https://github.com/sangcheolme"><img src="https://avatars.githubusercontent.com/sangcheolme" width="100px;" alt="박상철"/><br /><sub><b>박상철</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/WARDKEY"><img src="이미지_링크_서근엽" width="100px;" alt="서근엽"/><br /><sub><b>서근엽</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/kyungwon2won2"><img src="https://avatars.githubusercontent.com/u/134581020?v=4" width="100px;" alt="여경원"/><br /><sub><b>여경원</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/hanachooi"><img src="이미지_링크_최하나" width="100px;" alt="최하나"/><br /><sub><b>최하나</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/hanachooi"><img src="https://avatars.githubusercontent.com/hanachooi" width="100px;" alt="최하나"/><br /><sub><b>최하나</b></sub></a><br /></td>
     </tr>
   </tbody>
 </table>
@@ -240,7 +240,7 @@ https://github.com/beyond-sw-camp/be05-1st-3Team-silver-work/assets/127950374/5c
 > 
 
 🦁 **최하나**
-> 프로젝트를 진행하면서 주제 선정, 요구사항 분석, 디비 설계, 데이터 가공, 그리고 프로젝트 진행 절차에 대한 경험들이 많이 있었습니다. 주제를 선정할 때는 초기에 데이터를 제공받을 수 있는 주제로 한정하다보니 선택 폭이 좁아져 어려움을 겪었습니다. 이로 인해 적절한 주제를 찾는 것이 번거로웠습니다.
+> 프로젝트를 진행하면서 주제 선정, 요구사항 분석, 디비 설계, 데이터 가공, 그리고 프로젝트 진행 절차에 대해 배웠습니다. 주제를 선정할 때는 초기에 데이터를 제공받을 수 있는 주제로 한정하다보니 선택 폭이 좁아져 어려움을 겪었습니다. 이로 인해 적절한 주제를 찾는 것이 번거로웠습니다.
 
 > 요구사항 분석도 처음에는 낯설게 느껴져서 수정을 거듭하면서 이해를 하고 가야 했습니다. 이러한 과정에서 모든 경우의 수를 고려하고 완전한 이해를 바탕으로 개발을 진행해야 한다는 중요한 교훈을 얻었습니다.
 
