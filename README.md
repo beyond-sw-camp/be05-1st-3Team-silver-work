@@ -210,7 +210,8 @@ https://github.com/beyond-sw-camp/be05-1st-3Team-silver-work/assets/127950374/5c
 
 **3. 노인의 일자리 통계 기능 추가**
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/4786306d-53fc-4bdd-9dd4-99a1cea69cd6/45272a48-002c-4666-afdf-5209a1bd898d/Untitled.png)
+![노인일자리현황](https://github.com/beyond-sw-camp/be05-1st-3Team-silver-work/assets/92570309/5d8bb9ac-916f-4ea3-b2b9-66cc00d51a8c)
+
 
 >플랫폼 개발 시, 사용한 공공데이터를 통해, 현 노인 일자리 현황을 보면, 노인 참여자수와 참여 사업 단체수가 증가하고 있음을 확인할 수 있다.
 >이를 사용하여, 노인의 일자리 통계 기능을 추가할 수 있다.
